@@ -59,3 +59,19 @@ body {
     bottom: 0px;
     z-index: 1;
 }
+
+#loginModal{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    
+}
+
+#reserve{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+}
+
