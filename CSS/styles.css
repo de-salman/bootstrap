@@ -71,6 +71,8 @@ body {
   border-bottom: 0px; }
   .modal-header .reserveCloss {
     color: #D1C4E9; }
+  .modal-header .loginCloss {
+    color: #D1C4E9; }
 
 .modal-body {
   background-color: #D1C4E9; }
